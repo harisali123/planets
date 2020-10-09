@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 haris ali.colour is red.this is haris modification
+=======
+haris ali.colour is red
+This is hamdan modification
+>>>>>>> 91f34ca393bd87dcd614d381b9ecb113e592668b
